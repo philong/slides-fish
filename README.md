@@ -103,10 +103,9 @@ Let’s explore a few must-have utilities for daily workflows.
 
 ---
 
-## WezTerm – GPU-accelerated cross-platform terminal emulator and multiplexer
+## WezTerm – GPU-accelerated terminal emulator
 
-- GPU-accelerated rendering for smooth performance
-- Built-in multiplexing (tabs, panes, windows) – no need for tmux/screen
+- Built-in multiplexing (tabs, panes, windows) - no need for tmux/screen
 - Configurable with Lua (spent nights customizing WoW addons? Now you can do the same during work hours)
 - Cross-platform & written in Rust
 
