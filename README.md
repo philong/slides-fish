@@ -94,7 +94,7 @@ Let’s explore a few must-have utilities for daily workflows.
 ## starship – The power of Rust in your prompt
 
 - Works with any shell (bash, zsh, fish, and even cmd.exe??)
-- Shows information you need (git status, language runtimes, etc.)
+- Shows information you need (git status, language runtimes, battery level, phase of the moon, etc.)
 - TOML configuration – looks 0.01% more amazing after 10 hours of config
 
 ![bg right:40% 100%](https://raw.githubusercontent.com/starship/starship/master/media/demo.gif)
@@ -106,8 +106,8 @@ Let’s explore a few must-have utilities for daily workflows.
 ## WezTerm – GPU-accelerated cross-platform terminal emulator and multiplexer
 
 - GPU-accelerated rendering for smooth performance
-- Built-in multiplexing (tabs, panes, windows)
-- Configurable with Lua (spent nights configuring WoW addons? Now you can do the same during work hours)
+- Built-in multiplexing (tabs, panes, windows) – no need for tmux/screen
+- Configurable with Lua (spent nights customizing WoW addons? Now you can do the same during work hours)
 - Cross-platform & written in Rust
 
 ![bg right:40% 100%](https://github.com/wezterm/wezterm/raw/main/docs/screenshots/two.png)
