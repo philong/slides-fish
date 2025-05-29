@@ -3,7 +3,7 @@ title: Modern CLI Tools for Speed & Productivity
 theme: gaia
 paginate: false
 header: Revolutionary CLI Tools You Won’t Believe Exist
-footer: April 1st Presentation
+footer: April 1st, 2025 Presentation
 backgroundColor: #fff
 backgroundImage: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png')
 marp: true
